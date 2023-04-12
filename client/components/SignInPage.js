@@ -32,7 +32,7 @@ const SignInPage = ()=>{
       </div>
 
        <div className="signUpForm">
-        <input type="submit" value="Subscribe!"/>
+        <input type="submit" value="LogIn!"/>
       </div>
         <Link to={'SignUp'}><h3>Don't Have a Login?</h3>
         <h4>SignUp Here!</h4> </Link>

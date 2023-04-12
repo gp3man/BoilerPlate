@@ -50,7 +50,7 @@ const SignUpComp = ()=>{
         <input type="password" name="password" id="password" value={password} onChange={e=>setPassword(e.target.value)} required />
       </div>
        <div className="signUpForm">
-        <input type="submit" value="Log In!"/>
+        <input type="submit" value="Full-Send!"/>
       </div>
     </form>
   </div>
